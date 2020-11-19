@@ -47,5 +47,26 @@
         "type": ["한식"],
         "menu": "생선구이, 생선찜",
         "description": "푸짐한 생선요리"
+    },
+    {
+        "name": "선릉 손칼국수",
+        "type": ["한식"],
+        "menu": "숯칼정식, 닭개장, 숯닭칼국수, 닭개장 칼국수",
+        "description": "정식에 게장과 떡갈비 나옴. 닭갈비 퀄리티 굿",
+        "url": "https://seojoyya.tistory.com/77"
+    },
+    {
+        "name": "선릉 토종 시골집",
+        "type": ["한식"],
+        "menu": "깡장 비빔밥, 청국장, 시래기국",
+        "description": "고기 하나도 없지만 가끔 가면 되게 맛있음 들기름 굿",
+        "url": "https://blog.naver.com/skj1500/221565117451"
+    },
+    {
+        "name": "노오랑 분식",
+        "type": ["분식", "한식"],
+        "menu": "라면, 떡볶이, 각종 분식류",
+        "description": "항상 사람이 많음",
+        "url": "https://blog.naver.com/rhdwn3533/221745949987"
     }
 ]
