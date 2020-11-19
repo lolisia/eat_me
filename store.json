@@ -28,13 +28,13 @@
         "name": "아부리",
         "type": ["일식"],
         "menu": "숯불 부타동, 라멘",
-        "description": "숯불 맛있음"
+        "description": "숯불 맛있음 / 맨날 자리 없음"
     },
     {
         "name": "마담밍",
         "type": ["중식"],
         "menu": "짜장면, 짬뽕, 볶음밥",
-        "description": "선릉 중식 맛집"
+        "description": "선릉 중식 맛집. 일단 줄서서 기다려야함"
     },
     {
         "name": "온새미로",
