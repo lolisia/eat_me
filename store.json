@@ -68,5 +68,35 @@
         "menu": "라면, 떡볶이, 각종 분식류",
         "description": "항상 사람이 많음",
         "url": "https://blog.naver.com/rhdwn3533/221745949987"
+    },
+    {
+        "name": "듬북담북",
+        "type": ["한식"],
+        "menu": "북어국",
+        "description": "김치 맛집"
+    },
+    {
+        "name": "대독장",
+        "type": ["한식"],
+        "menu": "김치찌개",
+        "description": "계란 후라이 무제한 제공 굿"
+    },
+    {
+        "name": "강남 이베리코 흑돼지",
+        "type": ["한식"],
+        "menu": "요일별 가정식 백반, 삼겹살 정식",
+        "description": "가성비 좋습니다"
+    },
+    {
+        "name": "Pho heim",
+        "type": ["쌀국수"],
+        "menu": "쌀국수, 비빔면",
+        "description": "양 엄청많음. 가끔가면 맛있음"
+    },
+    {
+        "name": "장독대 김치찌개",
+        "type": ["한식"],
+        "menu": "김치찌개, 짜글이, 제육쌈밥",
+        "description": "계란말이 맛있음, 짜글이 고기 엄청 많음"
     }
 ]
